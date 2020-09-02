@@ -1,14 +1,4 @@
-print("hej TE19C")
+name = input("Vad heter du?")
+age = int(input("Hur gammal är du?"))
+print(f"hej {name} du är {17} år gammal")
 
-name = "Anton"
-
-
-
-print("ditt namn är" ,name)
-
-
-side = float(input("Ange kvadratens sida: "))
-
-area = side**2
-
-print("Arean av kvadraten är {area} a.e. ")
